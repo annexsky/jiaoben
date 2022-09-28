@@ -2,7 +2,7 @@
 // @name         懒人听书音频下载
 // @namespace    skyskysky
 // @version      0.1
-// @description  hello,this is a test
+// @description  hello
 // @author       sky233666
 // @license      AGPL License
 // @match        https://www.lrts.me/*
